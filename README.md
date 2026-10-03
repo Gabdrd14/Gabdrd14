@@ -126,8 +126,6 @@ Graph-based analysis of molecular descriptors and kinase activity using pharmaco
 <p align="left">
   <a href="https://github.com/Gabdrd14">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=hysteryx." alt="Discord" />
 </p>
 
 ---
