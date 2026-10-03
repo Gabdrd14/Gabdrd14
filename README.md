@@ -101,9 +101,6 @@ Development of deep learning models combining ECG, SCG, and accelerometer signal
 
 Graph-based analysis of molecular descriptors and kinase activity using pharmacophore directed acyclic graphs (DAGs), with applications in chemoinformatics and molecular similarity.
 
-**Squad No-Fly Zone Mod**
-
-Development of a custom Unreal Engine Blueprint-based system for defining and managing polygonal no-fly zones in Squad, with map-specific configuration and in-game validation.
 
 ---
 
