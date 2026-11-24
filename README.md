@@ -74,10 +74,6 @@
 
 * Computer Vision & Medical Image Analysis
 * Deep Learning & Neural Networks
-* AI for Healthcare & Biomedical Applications
-* Medical Imaging & Image Segmentation
-* Multimodal Learning & Biomedical Signal Processing
-* Machine Learning & Data Science
 * High-Performance Computing & Automation
 * Self-hosting & HomeLab Infrastructure
 
@@ -93,9 +89,6 @@ Deep learning approaches for stroke detection, lesion segmentation, and lesion v
 
 Development of deep learning models combining ECG, SCG, and accelerometer signals to predict hemodynamic measurements using multimodal time-series analysis.
 
-**Pharmacophore Analysis with AI**
-
-Graph-based analysis of molecular descriptors and kinase activity using pharmacophore directed acyclic graphs (DAGs), with applications in chemoinformatics and molecular similarity.
 
 
 ---
